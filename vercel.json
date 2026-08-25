@@ -19,6 +19,14 @@
     {
       "source": "/community/result/",
       "destination": "/"
+    },
+    {
+      "source": "/lens",
+      "destination": "/lens.html"
+    },
+    {
+      "source": "/lens/",
+      "destination": "/lens.html"
     }
   ]
 }
